@@ -1,6 +1,11 @@
 # Resources_CYS_guide
 It contains the most usefull resourses for learning cybersecurity and the content related to it. 
+<br>
 Everytopic is covered with the given resorses and links listed in this repository
+<br> 
+Given the name of files of repositories directing the content:-
+## Hindi/Urdu_lectures_and_YOUTUBE_resourses
+link:-
 
 ## Learning_Resourses
 This file contains the resourses on the given topics:
