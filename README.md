@@ -5,7 +5,7 @@ Everytopic is covered with the given resorses and links listed in this repositor
 <br> 
 Given the name of files of repositories directing the content:-
 ## Hindi/Urdu_lectures_and_YOUTUBE_resourses
-link:-
+link:-https://github.com/abdulmunim852/Resources_CYS_guide/blob/main/Hindi%5CUrdu_lectures_and_YOUTUBE_resourses.md
 
 ## Learning_Resourses
 This file contains the resourses on the given topics:
